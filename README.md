@@ -2,6 +2,8 @@
 
 A structured playbook of actionable takeaways distilled from Lenny Rachitsky’s podcast episode with Amol Avasare.
 
+https://youtu.be/k-H4nsOTuxU?si=d9YUkqiJ97jLeeg9
+
 ## Why this repo exists
 
 That episode was packed with useful ideas, and I wanted to turn it into something more operational than a page of notes.
